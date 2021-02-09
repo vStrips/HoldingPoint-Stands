@@ -1,6 +1,6 @@
-<b>vStrips - How to create a holding point / stand layout</b>
+<h2><b>vStrips - How to create a holding point / stand layout</b></h2>
 
-Things you need:-
+<h3>Things you need:-</h3>
 
 <ul>
   <li>Photoshop or similar</li>
@@ -10,7 +10,7 @@ Things you need:-
 </ul>
 
 
-<b>How to create a holding point layout</b>
+<h3><b>How to create a holding point layout</b></h3>
 
 <ul>
   <li>Create a new folder structure on your local PC(L-I-RF)</li>
@@ -31,7 +31,7 @@ Things you need:-
   <li>When complete, zip contents of the parent folder and email to <a href="mailto:datasubmissions@vstrips.co.uk?subject=Data Submission">datasubmissions@vstrips.co.uk</a> for approval.</li>
 </ul>
 
-<b>How to create a stand layout</b>
+<h3><b>How to create a stand layout</b></h3>
 
 <ul>
   <li>Create a new folder structure (L-I-RF) / or use same as above</li>
