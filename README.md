@@ -32,7 +32,7 @@
   <li>Click on the holding point, type the label at the bottom and press ‘add’.</li>
   <li>When all points are added, save and close.</li>
   <li>A file RF.txt / LIRF.txt will be added to the folder directory above. </li>
-  <li>When complete, zip contents of the parent folder and email to <a href="mailto:datasubmissions@vstrips.co.uk?subject=Data Submission">datasubmissions@vstrips.co.uk</a> for approval.</li>
+  <li>When complete, zip contents of the parent folder and email to <a href="mailto:datasubmission@vstrips.co.uk?subject=Data Submission">datasubmission@vstrips.co.uk</a> for approval.</li>
 </ul>
 
 <h3><b>How to create a stand layout</b></h3>
@@ -54,7 +54,7 @@
   <li>Click on the stand, type the label at the bottom and press ‘add’.</li>
   <li>When all stands are added, save and close.</li>
   <li>A file RF_Stands.txt / LIRF_Stands.txt will be added to the folder directory above. </li>
-  <li>When complete, zip contents (right click folder, send to, zip) of the parent folder and email to <a href="mailto:datasubmissions@vstrips.co.uk?subject=Data Submission">datasubmissions@vstrips.co.uk</a> for approval.</li>
+  <li>When complete, zip contents (right click folder, send to, zip) of the parent folder and email to <a href="mailto:datasubmission@vstrips.co.uk?subject=Data Submission">datasubmission@vstrips.co.uk</a> for approval.</li>
 </ul>
 
 
