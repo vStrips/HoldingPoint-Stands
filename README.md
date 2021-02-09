@@ -57,6 +57,8 @@
   <li>When complete, zip contents (right click folder, send to, zip) of the parent folder and email to <a href="mailto:datasubmission@vstrips.co.uk?subject=Data Submission">datasubmission@vstrips.co.uk</a> for approval.</li>
 </ul>
 
+<h2>A member of staff will close the raised issue when the layout has been approved</h2>
+
 
 
 
