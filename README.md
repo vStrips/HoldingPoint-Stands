@@ -6,7 +6,7 @@
   <li>Photoshop or similar</li>
   <li>ADE (Airport design editor) https://www.scruffyducksoftware.com/airport-design-editor</li>
   <li>Recent BGL for chosen airport.</li> 
-  <li>SHPIndexer (Image Mapper)(Located here in Applications)</li> 
+  <li>SHPIndexer (Image Mapper) (Located here in Applications)</li> 
 </ul>
 
 
