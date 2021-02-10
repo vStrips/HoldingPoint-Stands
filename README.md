@@ -22,7 +22,7 @@
   <li>Find an up-to-date .BGL file. </li>
   <li>Open BGL file in ADE</li>
   <li>Remove all excessive detail</li>
-  <li>Remove all Taxiway / Building drawings under 'View'</li>
+  <li>Remove all Parking / Taxiways drawings under 'View'</li>
   <li>Save the new .bgl file as image and export to new folder (LIRF.jpg)</li>
   <li>Open saved image in photoshop or similar software.</li>
   <li>Add holding point images onto ground layout. (Many are pre-made in the ‘HP’ folder. You will also find a .psd ‘blank’ file should you need to add any more. Sizes are 39x39 or 20x20)</li>
@@ -44,7 +44,7 @@
   <li>Find an up-to-date .BGL file. </li>
   <li>Open BGL file in ADE</li>
   <li>Remove all excessive detail</li>
-  <li>Remove all Taxiway / Building drawings under 'View'</li>
+  <li>Remove all Parking / Taxiways drawings under 'View'</li>
   <li>Save the new .bgl file as image and export to new folder (LIRF_Stands.jpg)</li>
   <li>Open saved image in photoshop or similar software.</li>
   <li>Add stand images onto ground layout. (Will need to use the .psd stand file to make your own stands) - We will eventually add a folder with many pre-made stands.</li>
