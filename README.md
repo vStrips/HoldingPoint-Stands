@@ -1,3 +1,7 @@
+<img src="https://i.imgur.com/exd8MKL.png">
+
+<h1>Looking at contributing?<h1>
+
 <h2><b>vStrips - How to create a holding point / stand layout</b></h2>
 
 <h3>Things you need:-</h3>
