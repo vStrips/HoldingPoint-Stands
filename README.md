@@ -21,7 +21,7 @@
 <h3><b>How to create a holding point layout</b></h3>
 
 <ul>
-  <li>Create a new folder structure on your local PC(L-I-RF)</li> [ICAO - First 2 letter -> Next letter -> Next Letter]
+  <li>Create a new folder structure on your local PC(L-I-RF)</li> [ICAO - First letter -> Next letter -> Last 2 Letters]
   <img src="https://i.imgur.com/jmoQpRN.png">
   <li>Find an up-to-date .BGL file. </li>
   <li>Open BGL file in ADE</li>
