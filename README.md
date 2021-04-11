@@ -15,8 +15,7 @@
 
 
 <b>Before you start, check an issue does not already exist for the airport you wish to create.</b>
-<b>If there is nobody else working on your chosen airport, create a new issue. Title = Airport + (ICAO) then assign to yourself.</b>
-<img src="https://i.imgur.com/EMfNdJT.png">
+<b>If there is nobody else working on your chosen airport, create a new issue. Title = Airport + (ICAO).
 
 <h3><b>How to create a holding point layout</b></h3>
 
